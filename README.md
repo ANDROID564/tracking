@@ -4,6 +4,11 @@ tracking using Deep Sort
 Download weights:
 https://pjreddie.com/media/files/yolov3.weights
 
+Keep the weights file in config folder.
+config/yolov3.weights
+
+Keep an input video "input.mp4" 
+
 Set up python environment for yolov3 
 
 Run 
